@@ -1,6 +1,8 @@
 # Boston-Metro-System
 ###### CS308 Group Assignment
 
+##### Completed by Liam McGloin, Sudeep Dhakal, Karmen Tsang, Aqsa Hamid, Erin Allen
+
 The aim of this exercise is to design and implement a multi-graph ADT and to use the multi-graph to model the Boston Metro System in a program that is able to provide directions to passengers on how to get from one station to another. The system must have a graphical user interface, and follows a properly decoupled Model-View-Controller software architecture.
 
 You'll need to decide on the basic functionality of your program, design a GUI for it. At the minimum, the system should be possible to:
